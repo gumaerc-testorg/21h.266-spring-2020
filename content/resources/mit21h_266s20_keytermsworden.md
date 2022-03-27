@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Videos
 parent_type: CourseSection
+parent_uid: 96c6e12b-05bd-4faa-8cea-9b6bcd41be48
 resourcetype: Document
 title: "21H.266S20 Apartheid and South Africa: Key Terms from Nigel Worden\u2019s\
   \ The Making of Modern South Africa"
