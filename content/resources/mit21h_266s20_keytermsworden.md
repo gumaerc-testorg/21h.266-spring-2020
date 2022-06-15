@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-266-apartheid-and-south-africa-spring-2020/ee96440e11970eafd7e7cfb8ae3e7aeb_MIT21H_266S20_KeyTermsWorden.pdf
+file: /courses/21h-266-apartheid-and-south-africa-spring-2020/ee96440e11970eafd7e7cfb8ae3e7aeb_MIT21H_266S20_KeyTermsWorden.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

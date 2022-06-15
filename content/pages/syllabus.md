@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on the course's meeting times, grading
+  policy, and required texts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +32,7 @@ Worden, Nigel. _The Making of Modern South Africa_. 5th ed. Wiley-Blackwell, 201
 
 Marks, Shula, ed. _Not Either an Experimental Doll: The Separate Worlds of Three South African Women_. Indiana University Press, 1988. ISBN: 9780253348432. \[Preview with [Google Books](https://www.google.com/books/edition/Not_Either_an_Experimental_Doll/RZKUUtNb_XwC?hl=en&gbpv=1)\]
 
-All other reading materials can be found in the [Readings and Videos]({{< baseurl >}}/pages/readings-and-videos) section.
+All other reading materials can be found in the {{% resource_link 96c6e12b-05bd-4faa-8cea-9b6bcd41be48 "Readings and Videos" %}} section.
 
 Grading Policy
 --------------
@@ -96,4 +98,4 @@ Final paper
 
 {{< tableclose >}}
 
-For more information on the assignments listed above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the assignments listed above, see the {{% resource_link 259758e1-58cb-2455-e4c0-e5f4b890f30c "Assignments" %}} section.
