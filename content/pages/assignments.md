@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information for the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 259758e1-58cb-2455-e4c0-e5f4b890f30c
 ---
@@ -37,7 +41,7 @@ Final Paper
 
 Write a 2500-to-2700-word book review of one of the books listed below:
 
-Mandela, Nelson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Long Walk to Freedom: The Autobiography of Nelson Mandela_. (PDF - 3.9MB)](https://zelalemkibret.files.wordpress.com/2012/01/the-autobiography-of-nelson-mandela.pdf) Back Bay Books, 1995. ISBN: 9780316548182. \[Preview with [Google Books](https://www.google.com/books/edition/Long_Walk_to_Freedom/RHwLqVrnXgIC?hl=en&gbpv=1)\]
+Mandela, Nelson. [_Long Walk to Freedom: The Autobiography of Nelson Mandela_. (PDF - 3.9MB)](https://zelalemkibret.files.wordpress.com/2012/01/the-autobiography-of-nelson-mandela.pdf) Back Bay Books, 1995. ISBN: 9780316548182. \[Preview with [Google Books](https://www.google.com/books/edition/Long_Walk_to_Freedom/RHwLqVrnXgIC?hl=en&gbpv=1)\]
 
 Noah, Trevor. _Born a Crime: Stories from a South African Childhood_. One World, 2019. ISBN: 9780399588198. 
 
