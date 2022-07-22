@@ -4,6 +4,7 @@ description: ''
 file: /courses/21h-266-apartheid-and-south-africa-spring-2020/ee96440e11970eafd7e7cfb8ae3e7aeb_MIT21H_266S20_KeyTermsWorden.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Videos
 parent_type: CourseSection
