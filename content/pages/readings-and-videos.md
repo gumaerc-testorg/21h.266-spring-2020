@@ -146,7 +146,7 @@ Moodie, T. Dunbar (with Vivien Ndatshe and British Sibuye). “[Migrancy and Mal
 
 Breckenridge, Keith. “[Migrancy, Crime and Faction Fighting: The Role of the Isitshozi in the Development of Ethnic Organisations in the Compounds](https://www.tandfonline.com/doi/abs/10.1080/03057079008708224).” *Journal of Southern African Studies* 16, no. 1 (1990): 55–78.
 
-Crush, Jonathan. [“Scripting the Compound: Power and Space in the South African Mining Industry.” (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.5672&rep=rep1&type=pdf) *Environment and Planning D: Society and Space* 12, no. 3 (1994): 301–24.
+Crush, Jonathan. “[Scripting the Compound: Power and Space in the South African Mining Industry](https://journals.sagepub.com/doi/10.1068/d120301).” *Environment and Planning D: Society and Space* 12, no. 3 (1994): 301–24.
 
 Kynoch, Gary. “[Of Compounds and Cellblocks: The Foundations of Violence in Johannesburg, 1890s–1950s](https://www.tandfonline.com/doi/abs/10.1080/03057070.2011.602886).” *Journal of Southern African Studies* 37, no. 3 (2011): 463–77.
 
