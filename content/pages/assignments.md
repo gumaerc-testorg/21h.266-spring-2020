@@ -41,18 +41,18 @@ Final Paper
 
 Write a 2500-to-2700-word book review of one of the books listed below:
 
-Mandela, Nelson. [_Long Walk to Freedom: The Autobiography of Nelson Mandela_. (PDF - 3.9MB)](https://zelalemkibret.files.wordpress.com/2012/01/the-autobiography-of-nelson-mandela.pdf) Back Bay Books, 1995. ISBN: 9780316548182. \[Preview with [Google Books](https://www.google.com/books/edition/Long_Walk_to_Freedom/RHwLqVrnXgIC?hl=en&gbpv=1)\]
+Mandela, Nelson. {{% resource_link "ccc7bf75-e064-4d6f-a6c4-539c26a98aa1" "_Long Walk to Freedom: The Autobiography of Nelson Mandela_. (PDF - 3.9MB)" %}} Back Bay Books, 1995. ISBN: 9780316548182. \[Preview with {{% resource_link "31eb282a-5096-4492-abaf-2b2d6f9b4eca" "Google Books" %}}\]
 
 Noah, Trevor. _Born a Crime: Stories from a South African Childhood_. One World, 2019. ISBN: 9780399588198. 
 
-Peires, J. B. _The Dead Will Arise: Nongqawuse and the Great Xhosa Cattle-Killing Movement of 1856–7_. Indiana University Press, 1989. ISBN: 9780253205247. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dead_Will_Arise/Rcqy3c0go7QC?hl=en&gbpv=1)\]
+Peires, J. B. _The Dead Will Arise: Nongqawuse and the Great Xhosa Cattle-Killing Movement of 1856–7_. Indiana University Press, 1989. ISBN: 9780253205247. \[Preview with {{% resource_link "28b7e5f0-e54b-4d3c-bc16-a033e20480af" "Google Books" %}}\]
 
 Magona, Sindiwe. _To My Children’s Children_. Interlink Books, 2006. ISBN: 9781566566490. 
 
-Crais, Clifton, and Pamela Scully. _Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography_. Princeton University Press, 2010. \[Preview with [Google Books](https://www.google.com/books/edition/Sara_Baartman_and_the_Hottentot_Venus/FDpFDwAAQBAJ?hl=en&gbpv=1)\]
+Crais, Clifton, and Pamela Scully. _Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography_. Princeton University Press, 2010. \[Preview with {{% resource_link "67a58169-dc2f-40b2-a059-a7c89272ca7d" "Google Books" %}}\]
 
 A successful book review will explain and evaluate, with utmost brevity, the author’s main argument(s), and also assess whether the author’s evidence convincingly supports his/her thesis. Please note that this is NOT a book report; it is a critical book review and it must have a developed thesis statement. It must relate some of the author’s main points to a theme(s) in the history of apartheid. In other words, how does apartheid look when viewed from the perspective of Noah's _Born A Crime_?
 
-For additional information, see the handout [Book Reviews](https://writingcenter.unc.edu/tips-and-tools/book-reviews/) from the Writing Center at the University of North Carolina at Chapel Hill.
+For additional information, see the handout {{% resource_link "954c6130-122a-46d3-aab5-454b72f081a5" "Book Reviews" %}} from the Writing Center at the University of North Carolina at Chapel Hill.
 
 The review is due during the final session and is worth 20% of the course grade.
