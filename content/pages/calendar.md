@@ -50,7 +50,7 @@ _Viewing_
 
 Sonia Ruseler's CNN report on the colonization of South Africa:
 
-“[South Africa - WHY \[2/4\]\[1994\]](https://www.youtube.com/watch?v=Q8538DdiKr8&feature=related+Sonia).” YouTube. 
+“{{% resource_link "f15653a6-83d0-4af2-98f3-eaa362f9ffb5" "South Africa - WHY \[2/4\]\[1994\]" %}}.” YouTube. 
 
 
 {{< tdclose >}}
