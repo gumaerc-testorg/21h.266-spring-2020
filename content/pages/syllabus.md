@@ -28,9 +28,9 @@ This is an introductory course, and requires no prior knowledge of African histo
 Required Texts
 --------------
 
-Worden, Nigel. _The Making of Modern South Africa_. 5th ed. Wiley-Blackwell, 2012. ISBN: 9780470656334. \[Preview with {{% resource_link "9f4dd6ff-f24d-47be-bf1c-0739c6007f34" "Google Books" %}}\]
+Worden, Nigel. _The Making of Modern South Africa_. 5th ed. Wiley-Blackwell, 2012. ISBN: 9780470656334. \[Preview with [Google Books](https://www.google.com/books/edition/The_Making_of_Modern_South_Africa/9NyVTwKsLRUC?hl=en&gbpv=1)\]
 
-Marks, Shula, ed. _Not Either an Experimental Doll: The Separate Worlds of Three South African Women_. Indiana University Press, 1988. ISBN: 9780253348432. \[Preview with {{% resource_link "9ab3d9e4-fef3-4d20-9e65-0c7cda13d68f" "Google Books" %}}\]
+Marks, Shula, ed. _Not Either an Experimental Doll: The Separate Worlds of Three South African Women_. Indiana University Press, 1988. ISBN: 9780253348432. \[Preview with [Google Books](https://www.google.com/books/edition/Not_Either_an_Experimental_Doll/RZKUUtNb_XwC?hl=en&gbpv=1)\]
 
 All other reading materials can be found in the {{% resource_link 96c6e12b-05bd-4faa-8cea-9b6bcd41be48 "Readings and Videos" %}} section.
 
